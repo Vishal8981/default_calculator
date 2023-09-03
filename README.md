@@ -1,3 +1,3 @@
 # default_calculator
-5*6=31 , 5+10=16 , 49//7=8
+
 IT IS DEFAULT CALCULATOR TO THE USER
